@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grand Reward</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_stage">NEXT STAGE</string>
+    <string name="menu">MENU</string>
+    <string name="collection">COLLECTION</string>
+    <string name="quests">QUESTS</string>
+    <string name="claim_reward">CLAIM REWARD</string>
+    <string name="shuffle">SHUFFLE</string>
+    <string name="hint">HINT</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="settings">SETTINGS</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+
+    <string name="splash_title">GRAND REWARD</string>
+    <string name="splash_subtitle">UNSEAL THE VAULT</string>
+    <string name="loading">LOADING</string>
+
+    <string name="menu_tagline">COLLAPSE · COLLECT · CLAIM THE GRAND REWARD</string>
+    <string name="menu_hint">CLEAR 5 TOKENS OR MORE FOR A GRAND BONUS</string>
+
+    <string name="stat_best_score">BEST SCORE</string>
+    <string name="stat_stage">STAGE</string>
+    <string name="stat_reward_points">REWARD POINTS</string>
+    <string name="stat_tokens">TOKENS</string>
+    <string name="stat_best_group">BEST GROUP</string>
+    <string name="stat_rp_earned">RP EARNED</string>
+
+    <string name="rp_value">%1$s RP</string>
+    <string name="plain_value">%1$s</string>
+    <string name="moves">MOVES</string>
+    <string name="score">SCORE</string>
+    <string name="target">TARGET</string>
+    <string name="vault_chamber">VAULT CHAMBER</string>
+    <string name="stage_header">STAGE %1$d</string>
+
+    <string name="grand_reward_meter">GRAND REWARD METER</string>
+    <string name="meter_percent">%1$d%%</string>
+    <string name="meter_state">%1$d percent of the stage target</string>
+    <string name="chain_value">x%1$s CHAIN</string>
+    <string name="gain_value">+%1$d</string>
+    <string name="board_reshuffled">BOARD RESHUFFLED</string>
+
+    <string name="vault_cleared">VAULT CLEARED</string>
+    <string name="vault_sealed">VAULT SEALED</string>
+    <string name="locked">LOCKED</string>
+    <string name="unlocked">UNLOCKED</string>
+    <string name="gameover_hint">BIGGER GROUPS PAY EXPONENTIALLY MORE</string>
+
+    <string name="paused">PAUSED</string>
+    <string name="pause_body">SCORE %1$s · MOVES %2$d</string>
+
+    <string name="collection_counter">%1$d / %2$d</string>
+    <string name="no_relics_yet">NO RELICS YET · CLEAR STAGE 1 TO START THE HOARD</string>
+    <string name="clear_stage">CLEAR STAGE %1$d</string>
+
+    <string name="daily_goals">DAILY GOALS</string>
+    <string name="progression_track">PROGRESSION TRACK</string>
+    <string name="goal_reward">+%1$d RP</string>
+    <string name="goal_progress">%1$d / %2$d</string>
+    <string name="goal_tokens">CLEAR 40 TOKENS</string>
+    <string name="goal_score">SCORE 2500 IN ONE STAGE</string>
+    <string name="goal_stages">COMPLETE 2 STAGES</string>
+    <string name="completed">COMPLETED</string>
+    <string name="in_progress">IN PROGRESS</string>
+    <string name="chamber_target">TARGET %1$s</string>
+
+    <string name="settings_sound">SOUND CUES</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_reduced_motion">REDUCED MOTION</string>
+    <string name="setting_on">ON</string>
+    <string name="setting_off">OFF</string>
+    <string name="reset_title">RESET PROGRESS</string>
+    <string name="reset_body">THIS CLEARS YOUR HOARD, RELICS AND STAGE PROGRESS.</string>
+
+    <string name="stage_1">CHAMBER OF COINS</string>
+    <string name="stage_2">RUBY HALL</string>
+    <string name="stage_3">GILDED ARCHIVE</string>
+    <string name="stage_4">ROSE RESERVE</string>
+    <string name="stage_5">IVORY DEPOSITORY</string>
+    <string name="stage_6">AZURE STRONGROOM</string>
+    <string name="stage_7">EMBER TREASURY</string>
+    <string name="stage_8">CROWN GALLERY</string>
+    <string name="stage_9">OBSIDIAN CELLAR</string>
+    <string name="stage_10">LANTERN COUNTING ROOM</string>
+    <string name="stage_11">SOVEREIGN REPOSITORY</string>
+    <string name="stage_12">GRAND VAULT</string>
+
+    <string name="relic_1">BULLION BAR</string>
+    <string name="relic_2">SEAL OF RUBIES</string>
+    <string name="relic_3">ROSE CUT GEM</string>
+    <string name="relic_4">IVORY SOVEREIGN</string>
+    <string name="relic_5">AZURE CREST</string>
+
+    <string name="token_gold_ingot">GOLD INGOT</string>
+    <string name="token_ruby_seal">RUBY SEAL</string>
+    <string name="token_rose_gem">ROSE GEM</string>
+    <string name="token_ivory_coin">IVORY COIN</string>
+    <string name="token_azure_crest">AZURE CREST</string>
+
+    <string name="cd_back">Back to the previous screen</string>
+    <string name="cd_pause">Pause the stage</string>
+    <string name="cd_relic">Vault relic</string>
+    <string name="cd_reward_token">Reward token</string>
+</resources>
